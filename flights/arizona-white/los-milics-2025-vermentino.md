@@ -7,6 +7,7 @@
 **Producer:** Los Milics Vineyards  
 **Grapes:** Vermentino  
 **Alcohol:** 14% ABV  
+**Alcohol:** 14% ABV  
 **Source status:** Current sheet supplied
 
 ## Tasting Profile
