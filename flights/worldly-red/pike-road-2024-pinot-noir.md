@@ -18,3 +18,7 @@ Cases: 39,817; TA: 5.5; pH: 3.62.
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
+
+## Online Verification
+- Source: https://www.pikeroadwines.com/wp-content/uploads/2025/08/24_PR_FS_WVPN.pdf
+- Result: Matching 2024 producer fact sheet confirms 39,817 cases, TA 5.5, pH 3.62, 13.5% ABV and stainless-steel fermentation.
