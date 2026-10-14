@@ -4,7 +4,7 @@
 **Vintage:** 2022  
 **Origin:** Rioja Alavesa, Rioja DOCa, Spain  
 **Grapes:** 100% Tempranillo  
-**Alcohol:** Approximately 14%
+**Alcohol:** 14.5%
 
 ## Tasting profile
 Cherry, raspberry, red plum, vanilla, coconut, cedar, baking spice; balanced tannins.
@@ -18,3 +18,8 @@ Pairings: jamón ibérico, Manchego, chorizo, lamb, roast chicken, mushrooms. Se
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
+
+## Online Verification
+- Status: Matching-vintage producer technical sheet verified; ABV corrected from approximately 14% to 14.5%.
+- Source: https://www.marquesderiscal.com/public/Attachment/2025/3/arienzo2022eng_exportacin.pdf
+- Producer lists 100% Tempranillo, 17 months American oak, TA 3.3 and pH 3.52.
