@@ -6,17 +6,16 @@
 **Vintage:** 2025  
 **Producer:** Los Milics Vineyards  
 **Grapes:** Vermentino  
+**Alcohol:** 14% ABV  
 **Source status:** Current sheet supplied
 
-## Tasting profile
-To be transcribed and verified from supplied current sheet.
+## Tasting Profile
+Aromas of pineapple, key lime, Granny Smith apple, and spearmint, with flinty minerality. Bright citrus on the palate leads to a crisp, mineral finish.
 
-## Winemaking and vineyard
-Not yet verified.
+## Food Pairing And Service
+The producer pairs this wine with Monsoon Mesquite 45% White Chocolate.
 
-## Food pairing and service
-Not yet verified.
-
-## Source and review
+## Source And Review
 - Current reference sheet supplied; verify full details against photo before publishing.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Review status: Producer's 2025 Jules' Vermentino listing checked; confirm this is the bottle served.
+- Producer wine menu: https://losmilicsvineyards.com/tasting-flight-tucson/
