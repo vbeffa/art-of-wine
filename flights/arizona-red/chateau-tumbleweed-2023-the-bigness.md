@@ -1,3 +1,5 @@
+[← Arizona Red](../../INDEX.md#arizona-red) | [All Flights](../../INDEX.md)
+
 # Chateau Tumbleweed The Bigness
 
 **Flight:** arizona red  
