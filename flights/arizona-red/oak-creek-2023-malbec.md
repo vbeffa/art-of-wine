@@ -1,3 +1,5 @@
+[← Arizona Red](../../INDEX.md#arizona-red) | [All Flights](../../INDEX.md)
+
 # Oak Creek Vineyards Malbec
 
 **Flight:** arizona red  
