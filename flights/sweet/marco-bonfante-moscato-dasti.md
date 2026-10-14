@@ -1,3 +1,5 @@
+[← Sweet](../../INDEX.md#sweet) | [All Flights](../../INDEX.md)
+
 # Marco Bonfante Moscato d'Asti
 
 **Flight:** sweet  
