@@ -1,3 +1,5 @@
+[← Sweet](../../INDEX.md#sweet) | [All Flights](../../INDEX.md)
+
 # Carl Reh Sweet Red
 
 **Flight:** Sweet  
