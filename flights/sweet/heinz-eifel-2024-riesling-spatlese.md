@@ -1,3 +1,5 @@
+[← Sweet](../../INDEX.md#sweet) | [All Flights](../../INDEX.md)
+
 # Heinz Eifel Riesling Spätlese
 
 **Flight:** sweet  
