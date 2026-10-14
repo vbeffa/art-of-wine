@@ -1,3 +1,5 @@
+[← Arizona Red](../../INDEX.md#arizona-red) | [All Flights](../../INDEX.md)
+
 # Laramita Cellars Pinot Noir
 
 **Flight:** arizona red  
