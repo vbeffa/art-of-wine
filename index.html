@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Art of Wine | Tasting Flights</title>
+<style>
+:root{color-scheme:light;--ink:#29201d;--muted:#70645e;--paper:#faf7f2;--line:#e7ded5;--accent:#793e43}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,-apple-system,sans-serif}
+header{padding:26px 20px 20px;background:#38262b;color:#fff}header .wrap{max-width:850px;margin:auto}
+.brand{font-family:Georgia,serif;font-size:30px;letter-spacing:.03em}.tagline{color:#dfd0cb;font-size:13px;margin-top:2px}
+main{max-width:850px;margin:auto;padding:22px 16px 60px}h1,h2{font-family:Georgia,serif;font-weight:normal;line-height:1.2}h1{font-size:28px;margin:0 0 8px}h2{font-size:23px;margin:22px 0 8px}
+.intro{color:var(--muted);margin:0 0 20px}.flights{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+button{font:inherit;cursor:pointer}.flight,.wine{border:1px solid var(--line);background:#fff;border-radius:12px;padding:16px;text-align:left;color:var(--ink);width:100%}
+.flight{min-height:96px}.flight strong{display:block;font:22px Georgia,serif}.flight span{font-size:13px;color:var(--muted)}
+.wines{display:grid;gap:10px}.wine{display:flex;align-items:center;justify-content:space-between;gap:12px}.wine strong{display:block;font-size:16px}.wine small{display:block;color:var(--muted);margin-top:4px}.arrow{font-size:24px;color:var(--accent)}
+.back{border:0;background:none;color:var(--accent);padding:8px 0;margin-bottom:12px;font-weight:600}
+.sheet{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px;overflow-wrap:anywhere}
+.sheet h1{font-size:27px}.sheet h2{font-size:21px;border-top:1px solid var(--line);padding-top:16px}
+.sheet p{margin:10px 0}.sheet a{color:var(--accent)}.sheet ul{padding-left:22px}.notice{padding:10px 13px;background:#f6e9dd;border-radius:8px;margin:14px 0}
+footer{margin-top:30px;font-size:12px;color:var(--muted)}
+</style></head><body><header><div class="wrap"><div class="brand">Art of Wine</div><div class="tagline">Tasting flight guide</div></div></header>
+<main><div id="app"><h1>Wine Flights</h1><p>Loading wines...</p></div><footer>Working draft. Wine details may change as source sheets are updated.</footer></main>
+<script>
+const app=document.getElementById('app');let flights=[];
+const esc=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const clean=s=>s.replace(/\s*\((missing|old sheet)\)$/i,'');
+const label=s=>/\(missing\)/i.test(s)?'Missing source sheet':/\(old sheet\)/i.test(s)?'Outdated source sheet':'';
+const inline=s=>esc(s).replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>').replace(/\[(.*?)\]\((https?:\/\/[^)]+)\)/g,'<a target="_blank" rel="noopener" href="$2">$1</a>');
+function markdown(md){return md.split(/\r?\n/).map(line=>{if(/^###? /.test(line))return '<h2>'+inline(line.replace(/^#+ /,''))+'</h2>';if(/^# /.test(line))return '<h1>'+inline(line.slice(2))+'</h1>';if(/^[-*] /.test(line))return '<p>• '+inline(line.slice(2))+'</p>';if(!line.trim())return '';return '<p>'+inline(line)+'</p>'}).join('')}
+function home(){app.innerHTML='<h1>Wine Flights</h1><p class="intro">Choose a flight to explore its five wines.</p><div class="flights">'+flights.map((f,i)=>'<button class="flight" data-flight="'+i+'"><strong>'+esc(f.name)+'</strong><span>'+f.wines.length+' wines</span></button>').join('')+'</div>';app.querySelectorAll('[data-flight]').forEach(b=>b.onclick=()=>showFlight(+b.dataset.flight))}
+function showFlight(i){const f=flights[i];app.innerHTML='<button class="back" id="back">← All flights</button><h1>'+esc(f.name)+'</h1><p class="intro">Select a wine to view its tasting sheet.</p><div class="wines">'+f.wines.map((w,j)=>'<button class="wine" data-wine="'+j+'"><span><strong>'+esc(clean(w.name))+'</strong>'+(label(w.name)?'<small>'+label(w.name)+'</small>':'')+'</span><span class="arrow">›</span></button>').join('')+'</div>';document.getElementById('back').onclick=home;app.querySelectorAll('[data-wine]').forEach(b=>b.onclick=()=>showWine(i,+b.dataset.wine))}
+async function showWine(i,j){const w=flights[i].wines[j];app.innerHTML='<button class="back" id="back">← '+esc(flights[i].name)+'</button><div class="sheet" id="sheet"><h1>'+esc(clean(w.name))+'</h1><p>Loading tasting sheet...</p></div>';document.getElementById('back').onclick=()=>showFlight(i);try{const r=await fetch(w.path);if(!r.ok)throw Error('Sheet unavailable');let content=await r.text();document.getElementById('sheet').innerHTML=(label(w.name)?'<div class="notice">'+esc(label(w.name))+': current details are pending.</div>':'')+markdown(content.replace(/\n## Online Verification[\s\S]*$/,'').replace(/\n## Source and review[\s\S]*$/,''))}catch(e){document.getElementById('sheet').innerHTML='<h1>'+esc(clean(w.name))+'</h1><p>Could not load this sheet. Open the Markdown file in GitHub instead.</p><a href="'+encodeURI(w.path)+'">View source</a>'}}
+async function init(){try{let r=await fetch('INDEX.md');if(!r.ok)throw Error('Index not available');let text=await r.text(),current=null;for(let line of text.split(/\r?\n/)){let h=line.match(/^## (.+)/);if(h){current={name:h[1],wines:[]};flights.push(current)}let m=line.match(/^- \[(.+?)\]\((flights\/[^)]+\.md)\)/);if(m&&current)current.wines.push({name:m[1],path:m[2]})}home()}catch(e){app.innerHTML='<h1>Wine Flights</h1><p>This preview needs to be hosted on a web server (for example GitHub Pages). <a href="INDEX.md">Browse the Markdown index</a>.</p>'}}init();
+</script></body></html>
