@@ -1,4 +1,4 @@
-# Wine flight index
+# Wine Flight Index
 
 All 35 wine entries are represented. Sheets are drafts pending verification against the original photographs. Missing or outdated references are explicitly identified.
 
