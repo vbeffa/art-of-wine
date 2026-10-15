@@ -3,20 +3,18 @@
 # Da Vines Vineyard Picpoul Blanc
 
 **Flight:** arizona white  
-**Vintage:** Not specified  
+**Vintage:** Not confirmed  
 **Producer:** Da Vines Vineyard  
 **Grapes:** Picpoul Blanc  
-**Source status:** Missing sheet
+**Source status:** Restaurant menu description; vintage-specific technical sheet pending
 
 ## Tasting profile
-To be transcribed and verified from supplied current sheet.
+Mineral-forward aromas with orange blossom, pear and white peach. Focused, fresh and mouthwatering through the finish.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+No vintage-specific winery technical sheet was located. Vintage, alcohol, vineyard and production details remain unconfirmed.
 
 ## Source and review
-- No tasting sheet was provided. Placeholder pending current technical sheet.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Art of Wine's published menu: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+- Source-sheet photograph is missing or marked O (outdated); no technical specifications were transferred from it.
+- Confirm the current bottle and vintage before adding vintage-specific details.
