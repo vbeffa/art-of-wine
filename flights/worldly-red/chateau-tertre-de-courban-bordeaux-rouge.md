@@ -20,6 +20,11 @@ Red fruit and toast aromas; supple, smooth palate and lingering finish.
 
 Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
 
+## Restaurant menu tasting notes
+Red fruit and toast aromas, a soft palate and lingering finish.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
