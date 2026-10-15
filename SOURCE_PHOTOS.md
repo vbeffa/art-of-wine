@@ -1,6 +1,6 @@
 # Source Photo Inventory (October 14, 2026)
 
-The original 34 JPEGs were provided in `Photos-1-001.zip`. This index maps the visible photo content to the wine flights. **The JPEG files themselves are not yet stored in this repository.** Preserve the ZIP until they are uploaded.
+The original 34 JPEGs were provided in `Photos-1-001.zip`. **Photos marked with a handwritten `O` are old/outdated sheets.** Do not treat their contents as current or replace current menu entries based on them. This index maps the visible photo content to the wine flights. **The JPEG files themselves are not yet stored in this repository.** Preserve the ZIP until they are uploaded.
 
 | Photo | Identified subject |
 |---|---|
@@ -39,4 +39,4 @@ The original 34 JPEGs were provided in `Photos-1-001.zip`. This index maps the v
 | 20261014_153556.jpg | Sweet: Carl Reh Sweet Red |
 | 20261014_153600.jpg | Sweet: Marco Bonfante Brachetto d'Acqui |
 
-**Missing or mismatched:** No clearly identified photograph of Da Vines Picpoul Blanc or Trivento White Malbec appears in the set. The Pinot Noir photo is Shotgun Ridge rather than the existing Laramita entry. Confirm against the current flight menu before replacing any wine.
+**Missing or mismatched:** No clearly identified photograph of Da Vines Picpoul Blanc or Trivento White Malbec appears in the set. The Pinot Noir photo is Shotgun Ridge rather than the existing Laramita entry. Some photographed sheets are explicitly marked `O` (old); confirm current menu and obtain replacement sheets before changing any affected entries.
