@@ -3,20 +3,18 @@
 # Cove Mesa Vineyard Viognier
 
 **Flight:** arizona white  
-**Vintage:** Not specified  
+**Vintage:** Not confirmed  
 **Producer:** Cove Mesa Vineyard  
 **Grapes:** Viognier  
-**Source status:** Outdated/different sheet
+**Source status:** Restaurant menu description; vintage-specific technical sheet pending
 
 ## Tasting profile
-To be transcribed and verified from supplied current sheet.
+Aromas of golden apple, pineapple, honeysuckle and lilies. Fruit and honey notes carry through a palate with crisp acidity and a long finish.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+The restaurant's menu confirms the Viognier listing, but the served vintage and exact technical details remain unconfirmed. Do not transfer technical data from the old source sheet.
 
 ## Source and review
-- Available sheet is marked O (old) and describes a different wine. Do not reuse its technical or tasting notes. Placeholder pending current sheet.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Art of Wine's published menu: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+- Source-sheet photograph is missing or marked O (outdated); no technical specifications were transferred from it.
+- Confirm the current bottle and vintage before adding vintage-specific details.
