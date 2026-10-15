@@ -1,5 +1,7 @@
 # Dead Canyon Ranch Cabernet Sauvignon
 
+**Bottle image:** https://www.hamptonswineshoppe.com/cdn/shop/files/2022MercerEstatesDeadCanyonRanchCabernetSauvignon.jpg?v=1750435953  
+
 **Flight:** worldly red  
 **Vintage:** 2022  
 **Origin:** Horse Heaven Hills, Washington, USA  
