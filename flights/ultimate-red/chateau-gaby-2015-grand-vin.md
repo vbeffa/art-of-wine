@@ -15,6 +15,11 @@ Traditional cement vats; 12-18 months in French oak, 55% new.
 ## Food pairing and technical details
 Source cites Wine Enthusiast 90 points.
 
+## Restaurant menu tasting notes
+Merlot, Cabernet Franc and Cabernet Sauvignon, with red and black fruit and subtle wood notes.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
