@@ -1,5 +1,7 @@
 # Trivento Reserve White Malbec
 
+**Bottle image:** https://dcdn.mitiendanube.com/stores/001/170/302/products/trivento-white-malbec1-be3f709fd184f8b6e816915114725793-1024-1024.png  
+
 **Flight:** worldly white  
 **Vintage:** Not specified  
 **Producer:** Trivento Reserve  
