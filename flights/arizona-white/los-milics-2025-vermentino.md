@@ -19,3 +19,8 @@ The producer pairs this wine with Monsoon Mesquite 45% White Chocolate.
 - Current reference sheet supplied; verify full details against photo before publishing.
 - Review status: Producer's 2025 Jules' Vermentino listing checked; confirm this is the bottle served.
 - Producer wine menu: https://losmilicsvineyards.com/tasting-flight-tucson/
+
+## Restaurant menu tasting notes
+Lime, almond, and green apple with a subtle saline finish.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
