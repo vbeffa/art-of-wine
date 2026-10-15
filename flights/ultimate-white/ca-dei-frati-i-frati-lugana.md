@@ -15,6 +15,11 @@ Steel vinification; no malolactic fermentation; at least six months on fine lees
 ## Food pairing and technical details
 Pairings: delicate starters, fish. Soil: limestone and clay.
 
+## Restaurant menu tasting notes
+Delicate white flowers, balsamic notes, and apricot in a fresh, elegant wine.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
