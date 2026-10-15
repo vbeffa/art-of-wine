@@ -1,5 +1,7 @@
 # Tenuta Sant'Antonio Scaia Rosato
 
+**Bottle image:** https://vinobucks.de/shop/images/product_images/original_images/16468.jpg  
+
 **Flight:** worldly white  
 **Vintage:** 2025  
 **Producer:** Tenuta Sant'Antonio  
