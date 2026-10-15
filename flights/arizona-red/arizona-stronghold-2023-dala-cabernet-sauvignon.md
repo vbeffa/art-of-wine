@@ -2,6 +2,8 @@
 
 # Arizona Stronghold Dala Cabernet Sauvignon
 
+**Bottle image:** https://images.commerce7.com/arizona-stronghold-vineyards-llc/images/medium/f27df1b5-caf4-4a95-b739-a0d23f03eb35-1764633140938.png  
+
 **Flight:** arizona red  
 **Vintage:** 2023  
 **Producer:** Arizona Stronghold  
