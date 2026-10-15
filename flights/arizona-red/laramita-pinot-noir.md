@@ -3,20 +3,18 @@
 # Laramita Cellars Pinot Noir
 
 **Flight:** arizona red  
-**Vintage:** Not specified  
+**Vintage:** Not confirmed  
 **Producer:** Laramita Cellars  
 **Grapes:** Pinot Noir  
-**Source status:** Outdated/different sheet
+**Source status:** Restaurant menu description; vintage-specific technical sheet pending
 
 ## Tasting profile
-To be transcribed and verified from supplied current sheet.
+Red cherry and aromatic herbs lead to an earthy finish, reflecting the high-desert character of Cochise County.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+Laramita produces wines from Arizona-grown grapes in the Willcox AVA. The specific Pinot Noir vintage, alcohol and winemaking process remain unconfirmed.
 
 ## Source and review
-- Available sheet is marked O (old) and describes a different wine. Do not reuse its technical or tasting notes. Placeholder pending current sheet.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Art of Wine's published menu: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+- Source-sheet photograph is missing or marked O (outdated); no technical specifications were transferred from it.
+- Confirm the current bottle and vintage before adding vintage-specific details.
