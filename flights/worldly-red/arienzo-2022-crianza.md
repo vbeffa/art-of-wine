@@ -20,6 +20,11 @@ Cherry, raspberry, plum, spice, and leather; restaurant menu describes 17 months
 
 Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
 
+## Restaurant menu tasting notes
+Cherry, raspberry, plum, spice and leather. The restaurant menu describes 17 months in American oak.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
