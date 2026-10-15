@@ -1,5 +1,7 @@
 # Kentia Albariño
 
+**Bottle image:** https://luekensliquors.com/cdn/shop/files/17429d96dd16218be12336efd168cfd6.png?v=1749081919  
+
 **Flight:** worldly white  
 **Vintage:** Not specified  
 **Producer:** Lagar da Condesa  
