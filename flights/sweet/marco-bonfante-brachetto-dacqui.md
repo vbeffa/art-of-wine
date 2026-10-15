@@ -2,6 +2,8 @@
 
 # Marco Bonfante Brachetto d'Acqui
 
+**Bottle image:** https://reale.shop/cdn/shop/files/MBS0122.png?v=1729756598&width=2048  
+
 **Flight:** Sweet  
 **Vintage:** Not specified  
 **Origin:** Piedmont, Italy  
