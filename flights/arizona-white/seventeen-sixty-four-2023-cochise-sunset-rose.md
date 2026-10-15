@@ -2,6 +2,8 @@
 
 # Seventeen Sixty-Four Vineyards Cochise Sunset Rosé
 
+**Bottle image:** https://images.squarespace-cdn.com/content/v1/6632c8c34dd3a43112a8b6cc/80a36ebb-8abc-4681-955c-b301e871438c/1764%2BVinyards%2B1.jpeg  
+
 **Flight:** arizona white  
 **Vintage:** 2023  
 **Producer:** Seventeen Sixty-Four Vineyards  
