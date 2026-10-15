@@ -1,5 +1,7 @@
 # Château Tertre de Courban Bordeaux Rouge
 
+**Bottle image:** https://www.viiino.cz/storage/app/uploads/public/63f/b43/ebd/63fb43ebd1691547012913.jpg  
+
 **Flight:** worldly red  
 **Vintage:** Not specified  
 **Origin:** Bordeaux AOC, France  
