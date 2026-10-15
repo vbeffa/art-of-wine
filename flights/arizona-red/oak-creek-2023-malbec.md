@@ -18,6 +18,11 @@ Floral aromas of ripe black cherry and red fruit mingle with white pepper, purpl
 ## Winemaking and vineyard
 Grown on red loamy sand and river rock. Manually harvested at optimum ripeness and hand-sorted in the vineyard. Destemmed and fermented as whole berries, cold-soaked for 24 hours before inoculation. Tank-fermented, then barrel-aged in a blend of new and neutral French oak.
 
+## Restaurant menu tasting notes
+Violet, raspberry, tobacco, and vanilla aromas; juicy black-fruit and plum flavors.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Current reference sheet supplied; verify full details against photo before publishing.
 - Transcribed from supplied photograph `20261014_151455.jpg` (Oak Creek Vineyards 2023 Malbec).
