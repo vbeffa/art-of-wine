@@ -1,5 +1,7 @@
 # Ca' dei Frati I Frati Lugana DOC
 
+**Bottle image:** https://bevvyph.com/cdn/shop/files/I-Frati-Lugana-Turbiana.png?v=1714391389  
+
 **Flight:** ultimate white  
 **Vintage:** Not specified  
 **Origin:** Lombardy, Italy  
