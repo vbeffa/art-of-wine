@@ -15,6 +15,11 @@ Truchard Vineyard; French oak, stainless-steel-lined concrete; full malolactic f
 ## Food pairing and technical details
 TA: 5.3 g/L; pH: 3.34; residual sugar: 0.002%; 8,463 cases.
 
+## Restaurant menu tasting notes
+Pear, citrus peel, tropical fruit, toast and a lingering stone-fruit finish.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
