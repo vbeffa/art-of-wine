@@ -20,6 +20,11 @@ Pairings: seafood, shellfish, poultry, braised white meats. Source lists case co
 
 Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
 
+## Restaurant menu tasting notes
+Marsanne and Roussanne blend with apple, toffee, toast, candied apple, cinnamon and walnut.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
