@@ -15,6 +15,11 @@ Approximately 17 months in American oak, then bottle aging.
 ## Food pairing and technical details
 Pairings: jamón ibérico, Manchego, chorizo, lamb, roast chicken, mushrooms. Serve 16-18°C; drink through 2030.
 
+## Restaurant menu tasting notes
+Cherry, raspberry, plum, spice, and leather; restaurant menu describes 17 months in American oak.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
