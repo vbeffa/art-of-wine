@@ -1,5 +1,7 @@
 # Tornatore Etna Bianco
 
+**Bottle image:** https://cepages-wines.com/cdn/shop/files/tornatore-etna-bianco.png?v=1735008877&width=1100  
+
 **Flight:** ultimate white  
 **Vintage:** Not specified  
 **Origin:** Etna, Sicily, Italy  
