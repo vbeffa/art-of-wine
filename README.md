@@ -12,7 +12,7 @@ The website is live and the repository is public. The 35 Markdown wine entries a
 - `INDEX.md`: seven-flight, 35-wine index
 - `flights/`: Markdown tasting sheets organized by flight
 - `TEMPLATE.md`: standard sheet format
-- `SOURCE_PHOTOS.md`: inventory and preliminary matching of 34 original photos, including missing or mismatched references
+- `SOURCE_PHOTOS.md`: source-sheet status and known missing/outdated references
 - `VERIFICATION.md`: independent online source and discrepancy audit
 - `SITE.md`: website details
 
@@ -20,4 +20,4 @@ The website is live and the repository is public. The 35 Markdown wine entries a
 
 GitHub Pages deploys the root of `master`. Changes to the Markdown sheets are reflected on the site after deployment and cache refresh. For routine content fixes, commit directly to `master`.
 
-Original photos were supplied in `Photos-1-001.zip`, but the photo binaries have **not yet been committed**. Preserve that ZIP until the images have been safely archived. Review image rights before publishing source photographs or producer-provided copy. Do not replace a wine entry based on a mismatched photo without confirming the current menu.
+Original photos are not stored in this public repository. The separately supplied ZIP should be retained as a source backup. Review image rights before publishing source photographs or producer-provided copy. Do not replace a wine entry based on an outdated or mismatched sheet without confirming the current menu.
