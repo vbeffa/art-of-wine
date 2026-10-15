@@ -15,6 +15,11 @@ Hand sorted; stainless-steel fermented; aged in French oak and stainless steel u
 ## Food pairing and technical details
 Cases: 39,817; TA: 5.5; pH: 3.62.
 
+## Restaurant menu tasting notes
+Willamette Valley Pinot Noir with concentrated cherry fruit and a smooth, dry finish.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
