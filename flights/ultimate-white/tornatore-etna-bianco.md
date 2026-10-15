@@ -20,6 +20,11 @@ Lemon zest, green apple, white peach, wild herbs, crushed stone, and subtle sali
 
 Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
 
+## Restaurant menu tasting notes
+Lemon zest, green apple, white peach, wild herbs, crushed stone and a saline note.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
