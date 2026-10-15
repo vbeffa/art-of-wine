@@ -1,5 +1,7 @@
 # Alta Vista Estate Malbec
 
+**Bottle image:** https://www.winetodeliver.com/cdn/shop/products/AltaVistaEstateMalbec750ML.jpg?v=1695379929  
+
 **Flight:** worldly red  
 **Vintage:** 2024  
 **Origin:** Mendoza, Argentina  
