@@ -2,6 +2,8 @@
 
 # Carl Reh Sweet Red
 
+**Bottle image:** https://chedrauimx.vtexassets.com/arquivos/ids/61683133/785859001629_00.jpg?v=639038593575300000  
+
 **Flight:** Sweet  
 **Vintage:** Not specified  
 **Origin:** Germany  
