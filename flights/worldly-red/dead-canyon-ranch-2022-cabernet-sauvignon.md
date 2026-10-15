@@ -15,6 +15,11 @@ Stainless-steel fermentation; 20% new French and American oak; aged 18 months.
 ## Food pairing and technical details
 TA: 0.55 g/100 mL; pH: 3.78; UPC: 898012002804.
 
+## Restaurant menu tasting notes
+Blackberry and mint aromas; black cherry, cassis, baking spice, earth, vanilla, and oak.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
