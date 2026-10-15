@@ -1,5 +1,7 @@
 # Château Gaby Grand Vin de Bordeaux
 
+**Bottle image:** https://theliquorstore.com/cdn/shop/products/850446007008_ef7d6378-db36-4bc2-bca6-6894ba1ea899_1200x.jpg?v=1666692281  
+
 **Flight:** ultimate red  
 **Vintage:** 2015  
 **Origin:** Canon-Fronsac, Bordeaux, France  
