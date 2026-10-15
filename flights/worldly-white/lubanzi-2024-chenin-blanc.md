@@ -1,5 +1,7 @@
 # Lubanzi Chenin Blanc
 
+**Bottle image:** https://bevmo.com/cdn/shop/files/7d34dddb-946e-42ab-9d1f-8cb5956ea6c0-padded.png?v=1778099822  
+
 **Flight:** worldly white  
 **Vintage:** 2024  
 **Producer:** Lubanzi  
