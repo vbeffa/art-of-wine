@@ -1,20 +1,20 @@
 # Wine Flight Index
 
-All 35 wine entries are represented. Sheets are drafts pending verification against the original photographs. Missing or outdated references are explicitly identified.
+All 35 wine entries are represented. Sheets are drafts pending vintage-specific verification. Four entries reconstructed from the restaurant's published menu retain unconfirmed technical details.
 
 ## Arizona White
 - [Oak Creek Vineyards Sauvignon Blanc](flights/arizona-white/oak-creek-2023-sauvignon-blanc.md)
-- [Da Vines Picpoul Blanc (missing)](flights/arizona-white/da-vines-picpoul-blanc.md)
+- [Da Vines Picpoul Blanc](flights/arizona-white/da-vines-picpoul-blanc.md)
 - [Los Milics Vermentino](flights/arizona-white/los-milics-2025-vermentino.md)
-- [Cove Mesa Viognier (old sheet)](flights/arizona-white/cove-mesa-viognier.md)
+- [Cove Mesa Viognier](flights/arizona-white/cove-mesa-viognier.md)
 - [Cochise Sunset Rosé](flights/arizona-white/seventeen-sixty-four-2023-cochise-sunset-rose.md)
 
 ## Arizona Red
-- [Laramita Pinot Noir (old sheet)](flights/arizona-red/laramita-pinot-noir.md)
+- [Laramita Pinot Noir](flights/arizona-red/laramita-pinot-noir.md)
 - [Oak Creek Malbec](flights/arizona-red/oak-creek-2023-malbec.md)
 - [Dala Cabernet Sauvignon](flights/arizona-red/arizona-stronghold-2023-dala-cabernet-sauvignon.md)
 - [The Bigness](flights/arizona-red/chateau-tumbleweed-2023-the-bigness.md)
-- [Laramita Sagrantino (old sheet)](flights/arizona-red/laramita-sagrantino.md)
+- [Laramita Sagrantino](flights/arizona-red/laramita-sagrantino.md)
 
 ## Worldly White
 - [Trivento White Malbec](flights/worldly-white/trivento-reserve-white-malbec.md)
