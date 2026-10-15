@@ -15,6 +15,11 @@ Cold maceration and fermentation in stainless steel; aged in tanks until bottlin
 ## Food pairing and technical details
 Pairings: pork tenderloin, roast beef, pâté, charcuterie, Gruyère.
 
+## Restaurant menu tasting notes
+Red fruit and toast aromas; supple, smooth palate and lingering finish.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
