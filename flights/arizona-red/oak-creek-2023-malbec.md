@@ -5,18 +5,19 @@
 **Flight:** arizona red  
 **Vintage:** 2023  
 **Producer:** Oak Creek Vineyards  
-**Grapes:** Malbec  
+**Grapes:** 100% Malbec  
+**Appellation:** Cochise County, Arizona  
+**Alcohol:** 14.2% ABV  
+**Residual sugar:** 0 g  
+**Production:** 1,150 cases  
 **Source status:** Current sheet supplied
 
 ## Tasting profile
-Black cherry, raspberry, purple florals, cocoa, vanilla and spice; medium-to-full-bodied with bright acidity and a velvety finish. ABV 14.2%.
+Floral aromas of ripe black cherry and red fruit mingle with white pepper, purple florals, gentle spice, cocoa, and vanilla cream. The palate builds from a delicate entry to a juicy, medium-to-full body with bright acidity, dried raspberry, fresh blackberry, and subtle oak. Long, velvety finish with floral notes, dried fruit, oak, and spice.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+Grown on red loamy sand and river rock. Manually harvested at optimum ripeness and hand-sorted in the vineyard. Destemmed and fermented as whole berries, cold-soaked for 24 hours before inoculation. Tank-fermented, then barrel-aged in a blend of new and neutral French oak.
 
 ## Source and review
 - Current reference sheet supplied; verify full details against photo before publishing.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Transcribed from supplied photograph `20261014_151455.jpg` (Oak Creek Vineyards 2023 Malbec).
