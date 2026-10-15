@@ -1,5 +1,7 @@
 # Frog's Leap Shale and Stone Chardonnay
 
+**Bottle image:** https://cdn.shoplightspeed.com/shops/650516/files/72564127/1652x1652x2/frogs-leap-chardonnay-shale-and-stone-2023.jpg  
+
 **Flight:** ultimate white  
 **Vintage:** 2023  
 **Origin:** Carneros, Napa Valley, California, USA  
