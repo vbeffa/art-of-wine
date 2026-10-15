@@ -20,6 +20,11 @@ Blackberry and mint aromas; black cherry, cassis, baking spice, earth, vanilla, 
 
 Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
 
+## Restaurant menu tasting notes
+Blackberry, mint, black cherry, cassis, baking spice, earth, vanilla and oak.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
