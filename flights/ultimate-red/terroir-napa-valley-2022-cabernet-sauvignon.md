@@ -1,5 +1,7 @@
 # Terroir Napa Valley Cabernet Sauvignon
 
+**Bottle image:** https://www.winesolutions.com/cdn/shop/files/TerroirNapaValley_1200x1200.jpg?v=1746540860  
+
 **Flight:** ultimate red  
 **Vintage:** 2022  
 **Origin:** Napa Valley, California, USA  
