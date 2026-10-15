@@ -1,5 +1,7 @@
 # Le Mentor Gigondas
 
+**Bottle image:** https://www.willowpark.net/cdn/shop/products/832220-GuillaumeGonnet_LeMentor_Gigondas.png?v=1734135072  
+
 **Flight:** ultimate red  
 **Vintage:** Not specified  
 **Origin:** Gigondas, Rhône, France  
