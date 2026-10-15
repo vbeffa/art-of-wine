@@ -15,6 +15,11 @@ Red berries, pomegranate, violet, vanilla, cherry, plum, licorice; medium body a
 ## Food pairing and technical details
 233,306 bottles; source lists James Suckling 95 points.
 
+## Restaurant menu tasting notes
+Cherries, pomegranate, tomato leaf and vanilla with medium body and smooth tannins. The restaurant menu lists the 2020 vintage, not the 2022 vintage in this entry.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
