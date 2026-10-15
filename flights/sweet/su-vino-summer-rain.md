@@ -15,6 +15,11 @@ Not specified.
 ## Food pairing and technical details
 Producer: Su Vino Winery.
 
+## Restaurant menu tasting notes
+Sweet Riesling infused with apple and melon.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
