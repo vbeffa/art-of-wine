@@ -1,5 +1,7 @@
 # Escarpment Martinborough Sauvignon Blanc
 
+**Bottle image:** https://beerandwine.co.nz/cdn/shop/files/Escarpment_20Sauvignon_20Blanc_1024x1024.png?v=1745890638  
+
 **Flight:** ultimate white  
 **Vintage:** 2024  
 **Origin:** Martinborough, New Zealand  
