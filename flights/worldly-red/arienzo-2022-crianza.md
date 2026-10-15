@@ -1,5 +1,7 @@
 # Arienzo de Marqués de Riscal Crianza
 
+**Bottle image:** https://www.licorea.com/images/magictoolbox_cache/4b5eb3b80f27eda806d8fcd0e2b8f318/4/0/404/original/2936316119/arienzo-crianza-2022-licorea.jpg  
+
 **Flight:** worldly red  
 **Vintage:** 2022  
 **Origin:** Rioja Alavesa, Rioja DOCa, Spain  
