@@ -5,18 +5,19 @@
 **Flight:** arizona white  
 **Vintage:** 2023  
 **Producer:** Oak Creek Vineyards  
-**Grapes:** Sauvignon Blanc  
+**Grapes:** 100% Sauvignon Blanc  
+**Appellation:** Willcox, Arizona  
+**Alcohol:** 13.3% ABV  
+**Residual sugar:** 0 g  
+**Production:** 430 cases  
 **Source status:** Current sheet supplied
 
 ## Tasting profile
-To be transcribed and verified from supplied current sheet.
+Aromas of grapefruit, key lime, lemon, gooseberry, and slight spice carry onto the palate. Vibrant acidity and a full mouthfeel lead to a crisp, clean finish.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+Manually harvested at optimum ripeness and hand-sorted in the vineyard. Destemmed, pressed, and cold-settled before stainless-steel fermentation. Aged in neutral oak to preserve fresh fruit character while adding subtle texture.
 
 ## Source and review
 - Current reference sheet supplied; verify full details against photo before publishing.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Transcribed from supplied photograph `20261014_151321.jpg` (Oak Creek Vineyards 2023 Sauvignon Blanc).
