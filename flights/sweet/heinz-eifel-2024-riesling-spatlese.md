@@ -17,6 +17,11 @@ Late-harvest Riesling.
 ## Food pairing and technical details
 Residual sugar: 65 g/L; TA: 6.0 g/L. Pairings: aged cheese, spicy food.
 
+## Restaurant menu tasting notes
+Late-harvest Mosel Riesling with pear, peach, citrus and apricot.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
