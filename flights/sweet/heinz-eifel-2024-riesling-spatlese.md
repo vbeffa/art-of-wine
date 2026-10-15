@@ -2,6 +2,8 @@
 
 # Heinz Eifel Riesling Spätlese
 
+**Bottle image:** https://applejack.com/site/images/Heinz-Eifel-Riesling-Spatlese-750-ml_1.png  
+
 **Flight:** sweet  
 **Vintage:** 2024  
 **Origin:** Mosel, Germany  
