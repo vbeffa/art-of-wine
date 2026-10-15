@@ -5,18 +5,18 @@
 **Flight:** arizona white  
 **Vintage:** 2023  
 **Producer:** Seventeen Sixty-Four Vineyards  
-**Grapes:** Rosé (composition not verified)  
+**Grapes:** 100% Sangiovese  
+**Appellation:** Willcox AVA, Arizona  
+**Alcohol:** 13.3% ABV  
+**Production:** 48 cases  
 **Source status:** Current sheet supplied
 
 ## Tasting profile
-To be transcribed and verified from supplied current sheet.
+Red-berry aromas and flavors with a smooth, light-bodied finish.
 
 ## Winemaking and vineyard
-Not yet verified.
-
-## Food pairing and service
-Not yet verified.
+Grapes sourced from Golden Rule Vineyard in Cochise, Arizona. Pressed within 24 hours of harvest and fermented to dryness. Malolactic fermentation in barrel, followed by eight months in neutral oak. Winemaker: Julia (Jules) Dixon. Produced and bottled at 1764 Vineyards in Pearce, Arizona, in March-April 2024.
 
 ## Source and review
 - Current reference sheet supplied; verify full details against photo before publishing.
-- Review status: Draft; do not publish without checking against the original source and current flight menu.
+- Transcribed from supplied photograph `20261014_151429.jpg` (1764 Vineyards 2023 Cochise Sunset Rosé).
