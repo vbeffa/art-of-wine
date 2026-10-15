@@ -17,6 +17,11 @@ Pressing, cool settling and pressurized fermentation.
 ## Food pairing and technical details
 Serve 6-8°C; pair with pastries, fruit tarts and soft desserts.
 
+## Restaurant menu tasting notes
+Sweet, gently sparkling Moscato with peach, pear and white flowers.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
