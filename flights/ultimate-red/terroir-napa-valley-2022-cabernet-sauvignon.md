@@ -15,6 +15,11 @@ Blackberry, cassis, chocolate, vanilla, dark cherry, plum and mocha.
 ## Food pairing and technical details
 912 cases; UPC: 826453521011.
 
+## Restaurant menu tasting notes
+Black cherry, cassis, bramble, vanilla, tobacco, cocoa, black raspberry, chocolate, espresso and anise. The restaurant menu lists the 2023 vintage, not 2022.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Source: photographed tasting sheet supplied for Art of Wine
 - Review status: Draft; verify against photograph before publishing
