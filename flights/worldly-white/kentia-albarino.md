@@ -15,6 +15,11 @@ Not yet verified.
 ## Food pairing and service
 Not yet verified.
 
+## Restaurant menu tasting notes
+Fragrant citrus and green apple with bright, refreshing acidity.
+
+Source: https://artofwinesedona.com/sedona-the-art-of-wine-food-menu
+
 ## Source and review
 - Current reference sheet supplied; verify full details against photo before publishing.
 - Review status: Draft; do not publish without checking against the original source and current flight menu.
