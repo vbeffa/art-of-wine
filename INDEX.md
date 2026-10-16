@@ -25,8 +25,8 @@ All 35 wine entries are represented. Sheets are drafts pending vintage-specific 
 
 ## Worldly Red
 - [Pike Road Pinot Noir](flights/worldly-red/pike-road-2024-pinot-noir.md)
-- [Arienzo de Marqués de Riscal Crianza](flights/worldly-red/arienzo-2022-crianza.md)
-- [Château Tertre de Courban Bordeaux Rouge](flights/worldly-red/chateau-tertre-de-courban-bordeaux-rouge.md)
+- [Marqués de Riscal Rioja](flights/worldly-red/marques-de-riscal-rioja.md)
+- [Château Livran Médoc](flights/worldly-red/chateau-livran-medoc.md)
 - [Alta Vista Estate Malbec](flights/worldly-red/alta-vista-2024-estate-malbec.md)
 - [Dead Canyon Ranch Cabernet Sauvignon](flights/worldly-red/dead-canyon-ranch-2022-cabernet-sauvignon.md)
 
@@ -39,7 +39,7 @@ All 35 wine entries are represented. Sheets are drafts pending vintage-specific 
 
 ## Ultimate Red
 - [Avignonesi Vino Nobile di Montepulciano DOCG](flights/ultimate-red/avignonesi-2022-vino-nobile.md)
-- [Le Mentor Gigondas](flights/ultimate-red/le-mentor-gigondas.md)
+- [Troupis 2024 Fteri Agiorgitiko](flights/ultimate-red/troupis-2024-fteri-agiorgitiko.md)
 - [Château Gaby Grand Vin de Bordeaux](flights/ultimate-red/chateau-gaby-2015-grand-vin.md)
 - [Malcaracter](flights/ultimate-red/malcaracter-2023.md)
 - [Terroir Napa Valley Cabernet Sauvignon](flights/ultimate-red/terroir-napa-valley-2022-cabernet-sauvignon.md)
